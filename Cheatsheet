@@ -1,0 +1,10 @@
+----------------------EDA-----------------------
+
+1.group-by
+2.describe
+3.aggregate
+4.loc,iloc
+5.apply
+6.dtypes
+7.info
+8.cross-tab
