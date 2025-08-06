@@ -8,3 +8,38 @@
 6.dtypes
 7.info
 8.cross-tab
+
+---------------------VDA-------------------------
+
+1.Univariate Visualization
+    1.1 Quantitative
+        - Histograms
+        - Density plots
+        - Box plots
+        - Violin plots
+    1.2 Categorical
+        - Frequency table(value_counts())
+        - Bar plot(countplot())
+2.Multivariate Visualization
+    2.1 Quantitative Vs Quantitative
+        - Correlation Matrix(Heatmap)
+        - Scatterplot(Jointplot)
+    2.2 Quantitative Vs Categorical
+        - Catplot
+    2.3 Categorical Vs Categorical
+        - Countplot
+        - Contingency table(crosstab)
+3.Whole Dataset Visualization
+    3.1 Naive approach(hist(),pairplot())
+    3.2 Dimensionality reduction
+    3.3 t-SNE(t - distributed Stochastic Neighbor Embedding)
+4.Packages
+    4.1 DataFrame.plot()
+    4.2 Seaborn
+        - pairplot()
+        - jointplot()
+        - histplot()
+        - boxplot()
+        - heatmap()
+    4.3 Plotly
+
