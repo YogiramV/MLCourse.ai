@@ -43,3 +43,14 @@
         - heatmap()
     4.3 Plotly
 
+---------------------ML Algorithms---------------------
+
+1.Decision Tree
+    1.1 Entropy
+    1.2 Information gain
+    1.3 DecisionTreeClassifier
+    1.4 DecisionTreeRegressor
+2.Nearest Neighbors
+    2.1 KNeighborsClassifier
+3.Cross Validation
+    3.1 GridSearchCV
