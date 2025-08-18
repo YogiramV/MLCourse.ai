@@ -54,3 +54,7 @@
     2.1 KNeighborsClassifier
 3.Cross Validation
     3.1 GridSearchCV
+4.Ordinary Least Squares
+5.Linear Classification
+    5.1 Logistic regression for classification
+    5.2 Maximum likelihood estimation and logistic regression
