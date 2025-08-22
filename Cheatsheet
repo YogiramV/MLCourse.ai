@@ -58,3 +58,12 @@
 5.Linear Classification
     5.1 Logistic regression for classification
     5.2 Maximum likelihood estimation and logistic regression
+6.Bagging
+    6.1 Bootstrapping
+    6.2 Out Of Bag Error
+    6.3 Random Forest
+    6.4 Extremely Randomized Trees
+7.Feature Importance
+    7.1 Information gain
+    7.2 feature_importances_
+
