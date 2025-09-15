@@ -66,4 +66,28 @@
 7.Feature Importance
     7.1 Information gain
     7.2 feature_importances_
-
+8.Feature Extraction
+    8.1 Texts
+        - Tokenization 
+        - Lemmatization, Stemming
+        - Vectorization (Tfidf, Count)
+    8.2 Images
+        - Pytesseract
+        - Haar cascades
+    8.3 Geospatial data 
+        - Geopy
+    8.4 Date and time
+    8.5 Time series
+9.Feature Transformation
+    9.1 Scaling
+        - Standard Scaling
+        - Min-max Scaling
+    9.2 Filling missing values
+        - fillna()
+        - Imputer
+10.Feature Selection
+    10.1 Variance threshold
+    10.2 SelectKBest
+    10.3 SelectFromModel
+    10.4 GridSearch
+        -SequentialFeatureSelection
