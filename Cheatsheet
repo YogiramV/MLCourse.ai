@@ -43,7 +43,7 @@
         - heatmap()
     4.3 Plotly
 
----------------------ML Algorithms---------------------
+---------------------ML Basics-------------------------------
 
 1.Decision Tree
     1.1 Entropy
@@ -91,3 +91,10 @@
     10.3 SelectFromModel
     10.4 GridSearch
         -SequentialFeatureSelection
+-----------------Unsupervised Learning---------------------
+1.Principal Component Analysis
+    - Dimensionality reduction
+2.Clustering
+    2.1 K-Means
+    2.2 Affinity propagation
+    2.3 Spectral clustering
