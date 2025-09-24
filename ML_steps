@@ -1,0 +1,7 @@
+1. Load the data.
+2. Get basic summary.
+3. Check for missing values.
+4. VDA.
+5. Split data.
+6. Train model.
+7. Hyperparameter tuning.
