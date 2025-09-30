@@ -119,3 +119,10 @@
     - ARIMA
         - Autoregression Moving Average
 5. Lags and linear regression
+-------------Gradient Boosting------------------------------
+1.LightGBM
+2.Adaboost
+3.XGBoost
+4.Weights
+5.Loss functions
+------------------------------------------------------------
