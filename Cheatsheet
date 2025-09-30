@@ -98,3 +98,24 @@
     2.1 K-Means
     2.2 Affinity propagation
     2.3 Spectral clustering
+----------------Time Series Analysis-----------------------
+1. Forecast metrics
+    - R squared
+    - Mean Absolute Error
+    - Median Absolute Error
+    - Mean Squared Error
+    - Mean Squared Logarthmic Error
+    - Mean Absolute Percentage Error
+2. Moving Average
+    - Weighted Average
+    - Exponenetial Smoothing
+    - Double Exponenetial Smoothing
+    - Triple Exponenetial Smoothing
+3. Time Series Cross Validation
+    - Iteratively increase training set and predict next n 
+4. Econometric Approach
+    - Stationarity
+        - Statistical property does not change over time
+    - ARIMA
+        - Autoregression Moving Average
+5. Lags and linear regression
